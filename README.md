@@ -1,15 +1,12 @@
-# css-questions
-Simple list of css related questions to drop in an interview.
+# CSS Questions
+Simple list of css related questions
 
 ## Basics
 - What is the difference between inherit and initial?
-- What is the :root selector?
-- What is the difference between em, rem and %?
-- and when would you apply each one of those units?
+- What is a :root selector?
+- What is the difference between em, rem?
+- When would you apply a rem unit and when an em?
 
 ## Concepts and Methology
-- When would you apply a visually hidden class?
-- How do you handle nested items?
+- When and why would one apply a visually hidden class?
 
-## Preprocessor (scss, less etc ...)
-- What is the difference between a placeholder and a mixin (scss specific)?
