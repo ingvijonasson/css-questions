@@ -12,5 +12,4 @@ Simple list of css related questions
 
 ## Cascade
 - Which selectors wins?
-1. `nav .menu-link[href] {}`
-2. `nav ul li .menu-link {}`
+`nav .menu-link[href] {}` vs `nav ul li .menu-link {}`
