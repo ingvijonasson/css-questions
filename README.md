@@ -11,6 +11,6 @@ Simple list of css related questions
 - What is a visually hidden class and why might you want to use it?
 
 ## Cascade
-- Which selectors wins
+- Which selectors wins?
 1. `nav .menu-link[href] {}`
 2. `nav ul li .menu-link {}`
