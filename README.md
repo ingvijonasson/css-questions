@@ -1,5 +1,5 @@
-# CSS Questions
-Simple list of css related questions
+# css-questions
+css related questions
 
 ## Basics
 - What is the difference between `inherit` and `initial`?
