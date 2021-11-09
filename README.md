@@ -8,6 +8,7 @@ Simple list of css related questions
 - When would you apply a `rem` unit and when an `em` unit?
 
 ## Concepts
+- What is a normalizer and what is a reset. What is the difference?
 - What is a visually hidden class and why might you want to use it?
 
 ## Cascade
